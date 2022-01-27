@@ -17,6 +17,6 @@ The app is completely built on SwiftUI framework which uses Firebase for authent
 ## Installation:
 - Download Xcode from AppStore on Mac. 
 - Clone this repository(or download zip). 
-- Open the CoviScan.xcodeproj file using Xcode
+- Open the FlashChatt.xcodeproj file using Xcode
 - Set the Active Scheme to "CoviScan" and Simulator device to "iPhone 13"
 - Run the project.
